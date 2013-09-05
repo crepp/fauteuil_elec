@@ -1,9 +1,9 @@
 ## Historique 
 
 ## Séance 1 - 8H/10H - le 4/09/2013 - Xav + Pat
-Démontage du fauteuil HS jusqu'à accès aux moteurs 
-Repérage des éléments fonctionnels 
-Premier visuel des moteurs : 
+Démontage du fauteuil HS jusqu'à accès aux moteurs  
+Repérage des éléments fonctionnels  
+Premier visuel des moteurs :  
 * moteurs réducteurs CC à balai avec "vis" pour les charbons
 * caractéristiques 0,180 Kw soit 180W soit en 12V = 15A !!
 
