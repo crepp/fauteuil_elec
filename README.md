@@ -21,4 +21,4 @@ Au début de ce projet, les interrogations sont multiples :
 * éléments récupérables ? 
 
 ## Synthèse étapes : 
-Le 04 /09/2013 : Séance 1 : Xav+Pat : démontage fauteuil HS - accès moteur - tests de base
+[Le 04 /09/2013 : Séance 1 : Xav+Pat : démontage fauteuil HS - accès moteur - tests de base] (https://github.com/crepp/fauteuil_elec/blob/master/historique.md#s%C3%A9ance-1---8h10h---le-4092013---xav--pat)
