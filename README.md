@@ -20,3 +20,5 @@ Au début de ce projet, les interrogations sont multiples :
 > caractéristiques électriques ? 
 > éléments récupérables ? 
 
+## Synthèse étapes : 
+Le 04 /09/2013 : Séance 1 : Xav+Pat : démontage fauteuil HS - accès moteur - tests de base
