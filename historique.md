@@ -18,6 +18,8 @@ Conclusion de cette première séance :
 * nécessité batteries chargées pour alimenter les moteurs au vu de la puissance nécessaire 
 * nécessité d'une interface de commande 15A par moteur minimum... 
 
+> si on considère une conso de 15A nominal, il faut une batterie de au minimum 15A x 3 = 45 Ah !
+
 ## suite séance 1 : 
 Recherche interface possible Gotronic : 
 * Syren 25A - 69€
