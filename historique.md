@@ -20,12 +20,13 @@ Conclusion de cette première séance :
 
 > si on considère une conso de 15A nominal, il faut une batterie de au minimum 15A x 3 = 45 Ah !
 
-## suite séance 1 : 
-Recherche interface possible Gotronic : 
-* Syren 25A - 69€
-* idem x2 - 109 €
-* BasicMicro - 2 x 30 A - 118€ 
+## Entre séance 1 : 
+Recherche interface possible Gotronic pour moteur CC 15A: 
+* [Syren 25A - 69€] (http://www.gotronic.fr/art-commande-de-moteur-25a-syren25-11571.htm)
+* [idem x2 - 109 €] (http://www.gotronic.fr/art-commande-sabertooth-2x25a-11575.htm)
+* [BasicMicro - 2 x 30 A - 118€] (http://www.gotronic.fr/art-commande-robot-claw-2x30a-17506.htm)
 
+Toutes ces interfaces permettent le contrôle par tension analogique 0-5V (et PWM), impulsion servo (RC), et aussi par série TTL (Uart) (multi possible sur même bus)
 
 ## Séance 2
 
